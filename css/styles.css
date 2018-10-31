@@ -120,15 +120,14 @@ p:last-of-type {
 	font-size: 2.5rem;
 	margin-bottom: 1.5em;
 	font-weight: 900;
-	margin-top: 1em;
+	margin-top: 3em;
 }
 
 .main-title span {
-	font-weight: 300;
-	display: none;
+	font-weight: 600;
 	font-size: .6em;
+	display: block;
 	color: #333333;
-	margin-left: 4.4em;
 }
 
 .title-cta {
@@ -160,12 +159,14 @@ p:last-of-type {
 		font-size: 3.7rem;
 		margin-left: 7em;
 		font-style: italic;
+		margin-top: 1em;
 	}
 
 	.main-title span {
 		font-weight: 500;
 		display: block;
 		font-size: .6em;
+		margin-left: 4.4em;
 	}
 	.team-p {
 		font-size: 1rem;
